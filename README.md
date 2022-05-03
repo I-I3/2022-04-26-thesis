@@ -6,3 +6,4 @@ this is my thesis about library science
 
 
 Änderungen durch Tina: Add more interesting information.
+Try a pull request.
